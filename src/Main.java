@@ -11,6 +11,7 @@ public class Main extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("UI/Main.fxml"));
         primaryStage.setTitle("GameEnJine");
         primaryStage.setScene(new Scene(root, 640, 400));
+        primaryStage.setResizable(false);
         primaryStage.show();
     }
 
