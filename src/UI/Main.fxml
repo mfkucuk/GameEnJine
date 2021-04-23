@@ -187,10 +187,10 @@
                               <Label layoutX="14.0" layoutY="176.0" text="Notes" />
                               <Label layoutX="49.0" layoutY="211.0" text="Duration" />
                               <Label layoutX="199.0" layoutY="211.0" text="Reverb" />
-                              <Button layoutX="269.0" layoutY="215.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="45.0" text="Undo" />
-                              <Button layoutX="269.0" layoutY="257.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="45.0" text="Clear" />
-                              <Button layoutX="269.0" layoutY="302.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="45.0" text="Save" />
-                              <Button layoutX="269.0" layoutY="171.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="45.0" text="Play" />
+                              <Button layoutX="269.0" layoutY="215.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="46.0" text="Undo" />
+                              <Button layoutX="269.0" layoutY="257.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="46.0" text="Clear" />
+                              <Button layoutX="269.0" layoutY="302.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="46.0" text="Save" />
+                              <Button layoutX="269.0" layoutY="171.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="46.0" text="Play" />
                               <Slider layoutX="135.0" layoutY="241.0" orientation="VERTICAL" prefHeight="89.0" prefWidth="14.0" />
                               <Label layoutX="122.0" layoutY="211.0" text="Volume" />
                               <Pane layoutX="14.0" layoutY="14.0" prefHeight="143.0" prefWidth="330.0" />
